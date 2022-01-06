@@ -11,6 +11,10 @@
 
     while (i >= 0 || j >= 0) {
         let sum = carry;
+
+        if (i >= 0) {
+            sum += a[i--] - '0';
+        }
     }
     
 };
