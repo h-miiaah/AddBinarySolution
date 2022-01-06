@@ -19,6 +19,8 @@
         if (j >= 0) {
             sum += b[j--] - '0';
         }
+
+        result = sum % 2 + result;
     }
     
 };
