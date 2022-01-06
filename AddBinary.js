@@ -10,7 +10,7 @@
     let carry = 0;
 
     while (i >= 0 || j >= 0) {
-        
+        let sum = carry;
     }
     
 };
