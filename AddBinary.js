@@ -39,5 +39,6 @@
 - Calculate and set the sum variable by adding the two bits represented by the characters and add carry to it.
 - Take the sum modulo 2, in other words the sum % 2.
 - Thats because it is a binary.
+- Then add it in front of the existing result string.
 
 */
