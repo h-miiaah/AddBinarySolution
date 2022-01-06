@@ -4,5 +4,5 @@
  * @return {string}
  */
  var addBinary = function(a, b) {
-    
+    let result = "";
 };
