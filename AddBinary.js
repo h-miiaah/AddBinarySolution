@@ -43,5 +43,6 @@
 - Set the carry variable by taking sum / 2 for the next iteration.
 - Check if the value of the carry is more than zero after the last iteration. 
 - If exist then add it to the front of the result.
+- Finally return the result as a binary.
 
 */
