@@ -40,5 +40,6 @@
 - Take the sum modulo 2, in other words the sum % 2.
 - Thats because it is a binary.
 - Then add it in front of the existing result string.
+- Set the carry variable by taking sum / 2 for the next iteration.
 
 */
