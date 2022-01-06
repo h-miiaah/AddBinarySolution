@@ -35,5 +35,6 @@
 /*
 
 - Set a variable carry.
+- Check the strings going right to left.
 
 */
