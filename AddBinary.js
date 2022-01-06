@@ -41,6 +41,7 @@
 - Thats because it is a binary.
 - Then add it in front of the existing result string.
 - Set the carry variable by taking sum / 2 for the next iteration.
--Check if the value of the carry is more than zero after the last iteration. 
+- Check if the value of the carry is more than zero after the last iteration. 
+- If exist then add it to the front of the result.
 
 */
