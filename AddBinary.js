@@ -8,4 +8,9 @@
     let i = a.length - 1;
     let j = b.length - 1;
     let carry = 0;
+
+    while (i >= 0 || j >= 0) {
+        
+    }
+    
 };
