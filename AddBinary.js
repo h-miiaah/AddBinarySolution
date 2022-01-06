@@ -23,5 +23,8 @@
         result = sum % 2 + result;
         carry = parseInt(sum / 2);
     }
+        if (carry > 0) {
+        result = 1 + result;
+        }
     
 };
