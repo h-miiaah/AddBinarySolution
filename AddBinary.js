@@ -26,5 +26,7 @@
         if (carry > 0) {
         result = 1 + result;
         }
+
+        return result;
     
 };
