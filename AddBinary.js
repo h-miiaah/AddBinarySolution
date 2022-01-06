@@ -36,5 +36,6 @@
 
 - Set a variable carry.
 - Check the strings going right to left.
+- Calculate and set the sum variable by adding the two bits represented by the characters and add carry to it.
 
 */
